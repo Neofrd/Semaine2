@@ -6,7 +6,7 @@ La plateforme Code Academy nous a permis de créer nos premieres lignes
 Avant d'envisager de créer sa première page, certaines déclarations sont _obligatoires_
 Il s'agit tout d'abord de préciser que nous créons un document html !
     <! DOCTYPE html>
-    et à la ligne suivantes > <html> *(cette balise, commele majorité, devra être refermée une fois le document terminé)*
+    et à la ligne suivantes la balise "html" *(cette balise, commele majorité, devra être refermée une fois le document terminé)*
 ## Un document html, cela se structure !
 Le rôle des balises est de rendre explicite :
 * la manière dont l'élement sera présenté
@@ -14,21 +14,21 @@ Le rôle des balises est de rendre explicite :
 * ce dont il s'agit
 
 ### Nous aurons donc les éléments de style
-* > <h1></h1>", et nous pouvons aller jusqu'à 6 niveaux de titre
-* > <p></p> pour les paragraphes
-* > <ul></ul> pour déclarer des puces simples qui seront marquées avec <li></li>
-* <ol></lo> pour des listes numérotées (avec toujours <li></li> devant le contenu de la liste
+* > <h1>"h1" pour les tirres, et nous pouvons aller jusqu'à 6 niveaux de titre</h1>
+* > <p> pour les paragraphes "p" </p>
+* > <ul> "ul" pour déclarer des puces simples qui seront marquées avec <li> "li" </li></ul>
+* <ol> pour des listes numérotées "ol" (avec toujours <li> li </li> devant le contenu de la liste</lo>
 Ces éléments peuvent être paramétrés grâce aux feuilles de style (langage CSS) qui fontionne 
 à peu près de la même manière même si on parle de sélecteurs et de propriétés auquelles on donne des attributs
 
 ### Nous aurons des indications d'emplacement
-* <titre></titre> pour le titre de la page du site
-* <header></header> pour les éléments d'en-tête 
-* <article></article> pour fixer les limites de l'article
-* <section></section> pour délimiter les différents sections
-* <aside></aside> pour les encadrés
-* <main></main> pour les éléments principaux de la page
-* <footer></footer> pour les pieds de page
+* <titre>pour le "titre" de la page du site</titre> 
+* <header> pour les éléments d'en-tête "header" </header>
+* <article> pour fixer les limites de l'"article"</article>
+* <section> pour délimiter les différents "sections"</section>
+* <aside> pour les encadrés "aside"</aside>
+* <main> pour les éléments principaux de la page "main" </main>
+* <footer>< pour les pieds de page "footer" /footer>
 
 ### Et des balises pour préciser ce qu'est l'élément en question
 * un lien <a href="l'url du lien"> "ici le texte cliquable à afficher (texte ou autre élément encadré de balise, comme une image)" </a>
@@ -37,3 +37,5 @@ Ces éléments peuvent être paramétrés grâce aux feuilles de style (langage 
 * To be continued
 
 Au final, nous obtenons notre badge de réussite des 14 exercices 
+
+<a href="https://www.codecademy.com/users/neofrd/achievements"> la page de mes badges  </a>
