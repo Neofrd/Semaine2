@@ -22,19 +22,19 @@ Ces éléments peuvent être paramétrés grâce aux feuilles de style (langage 
 à peu près de la même manière même si on parle de sélecteurs et de propriétés auquelles on donne des attributs
 
 ### Nous aurons des indications d'emplacement
-* '<titre>' pour le "titre" de la page du site
-* <header> pour les éléments d'en-tête "header"
-* <article> pour fixer les limites de l'"article"
-* <section> pour délimiter les différents "sections"
-* <aside> pour les encadrés "aside"</aside>
-* <main> pour les éléments principaux de la page "main"
-* <footer>< pour les pieds de page "footer" /footer>
+* "titre" pour le titre de la page du site
+* "header" pour les éléments d'en-tête
+* "article" pour fixer les limites de l'article
+* "section" pour délimiter les différents "sections"
+* "aside" pour les encadrés "aside"
+* "main" pour les éléments principaux de la page
+* "footer" pour les pieds de page "footer"
 
 ### Et des balises pour préciser ce qu'est l'élément en question
 * un lien <a href="l'url du lien"> "ici le texte cliquable à afficher (texte ou autre élément encadré de balise, comme une image)" </a>
 * une image <img src="l'url de l'image">
 
-* To be continued
+*To be continued*
 
 Au final, nous obtenons notre badge de réussite des 14 exercices 
 
