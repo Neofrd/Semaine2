@@ -14,20 +14,20 @@ Le rôle des balises est de rendre explicite :
 * ce dont il s'agit
 
 ### Nous aurons donc les éléments de style
-* > <h1>"h1" pour les tirres, et nous pouvons aller jusqu'à 6 niveaux de titre</h1>
-* > <p> pour les paragraphes "p" </p>
-* > <ul> "ul" pour déclarer des puces simples qui seront marquées avec <li> "li" </li></ul>
-* <ol> pour des listes numérotées "ol" (avec toujours <li> li </li> devant le contenu de la liste</lo>
+* "h1" pour les tirres, et nous pouvons aller jusqu'à 6 niveaux de titre
+* "p" pour les paragraphes "p"
+* "ul" pour déclarer des puces simples qui seront marquées avec "li"
+* "ol" pour des listes numérotées (avec toujours "li" devant le contenu de la liste<
 Ces éléments peuvent être paramétrés grâce aux feuilles de style (langage CSS) qui fontionne 
 à peu près de la même manière même si on parle de sélecteurs et de propriétés auquelles on donne des attributs
 
 ### Nous aurons des indications d'emplacement
-* <titre>pour le "titre" de la page du site</titre> 
-* <header> pour les éléments d'en-tête "header" </header>
-* <article> pour fixer les limites de l'"article"</article>
-* <section> pour délimiter les différents "sections"</section>
+* '<titre>' pour le "titre" de la page du site
+* <header> pour les éléments d'en-tête "header"
+* <article> pour fixer les limites de l'"article"
+* <section> pour délimiter les différents "sections"
 * <aside> pour les encadrés "aside"</aside>
-* <main> pour les éléments principaux de la page "main" </main>
+* <main> pour les éléments principaux de la page "main"
 * <footer>< pour les pieds de page "footer" /footer>
 
 ### Et des balises pour préciser ce qu'est l'élément en question
